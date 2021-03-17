@@ -1,6 +1,6 @@
 # Huxley 2 Community Edition
 
-A cross-platform JSON proxy for the GB railway Live Departure Boards SOAP API.
+A cross-platform JSON proxy for the GB railway Live Departure Boards SOAP API
 
 ![Huxley](Huxley2/wwwroot/img/huxley.png)
 
